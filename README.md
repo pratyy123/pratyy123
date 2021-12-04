@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pratyy123
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning Cryptography
-- 💞️ I’m looking to collaborate on projects based on End to End Encryption.
+- 💞️ I’m looking to collaborate on projects based on Andriod Development
 - 📫 You can reach me on instagram https://www.instagram.com/
 
 <!---
